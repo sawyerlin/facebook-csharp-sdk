@@ -114,6 +114,7 @@
   <ItemGroup>
     <Compile Include="CombinationStream.cs" />
     <Compile Include="DateTimeConvertor.cs" />
+    <Compile Include="FacebookAccessToken.cs" />
     <Compile Include="FacebookApiEventArgs.cs" />
     <Compile Include="FacebookApiException.cs" />
     <Compile Include="FacebookBatchParameter.cs" />
